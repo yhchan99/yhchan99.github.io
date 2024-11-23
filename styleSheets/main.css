@@ -1,0 +1,162 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Main Container */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Headings */
+h1 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #e74c3c;
+    padding: 0 0 10px 20px;
+}
+h2 {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #34495e;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #bdc3c7;
+    padding-bottom: 5px;
+}
+
+h4 {
+    font-size: 1.2rem;
+    color: #2c3e50;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+
+p {
+    margin: 10px 0;
+    color: #555;
+}
+
+
+header a {
+    color: #e74c3c;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+main a {
+    all: unset;
+}
+
+#serif {
+    font-family: 'Georgia', serif;
+}
+
+#sans-serif {
+    font-family: 'Arial', sans-serif;
+}
+
+#monospace {
+    font-family: 'Courier New', monospace;
+}
+
+#cursive {
+    font-family: 'Brush Script MT', cursive;
+}
+
+#fantasy {
+    font-family: 'Impact', fantasy;
+}
+
+img#harmony, img#notHarmony {
+    width: 40%;
+    
+}
+
+#easyToRead {
+    font-size: 25px;
+    color:black;
+    padding-left: 50px;
+}
+
+#hardToRead {
+    font-size: 10px;
+    padding-left: 50px;
+}
+
+
+img#hierarchy {
+    width: 60%;
+    
+}
+
+img#colorWheel {
+    width: 50%;
+
+}
+
+img#colorSchemes {
+    width: 90%;
+
+}
+
+img#colorPsychology {
+    width: 80%;
+}
+
+img {
+    margin: 0 20px;
+}
+
+#largeText {
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+#smallText {
+    font-size: 12px;
+    padding-left: 50px;
+}
+
+#importantText {
+    font-size: 20px;
+    color: darkred;
+    padding-left: 50px;
+}
+#regularText {
+    font-size: 20px;
+    color:lightgrey;
+    padding-left: 50px;
+}
+#whiteSpace {
+    font-size: 20px;
+    color: black;
+    padding: 50px;
+}
+
+#contrast {
+    color: darkred;
+    font-weight: bold;
+}
